@@ -33,7 +33,7 @@ window.onload = function() {
     var days = [{
         "day": 0,
         "score": 20,
-        "instruction": "<p>You are on a fishing trip!<br>There are total of 5 days to go through.<br>You need to get a certain score to proceed to the next day</p><p>Happy fishing!</p>"
+        "instruction": "<p>You are on a fishing trip!<br>There are total of 5 days to go through.<br>You need to get a certain score to proceed to the next day</p><p>Cast and Catch !</p>"
     },{
         "day": 1,
         "score": 30,

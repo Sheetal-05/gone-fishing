@@ -1,18 +1,38 @@
-GA Project 01
+# **CAST AND CATCH** 
 
-–
+---
 
-# ⬺ GONE FISHING! ⬺
-A simple fishing game made with HTML, CSS and Javascript.
+<br>
 
-You are on a fishing trip for a week and will need to play through 5 days.
-For each day, you are required to get a specified score in order to proceed to the next day.
+## **Description 📃**
+The Fishing Game is a simple and addictive game where the player tries to catch fish using a fishing hook. The player's goal is to catch as many fish as possible within a given time limit or until a certain score is reached. It tests the player's timing and reflexes as they try to hook the fish swimming in the pond.
 
-Simply move your cursor to catch the fishes! Rare, purple fishes can get you more points but are much faster.
-Avoid obstacles such a trashes, jellyfishes and sharks as each come with their own consequences.
+## **functionalities 🎮**
+The game starts with a pond background image and a fishing hook positioned at the bottom center of the pond.
+Fish of different sizes and types swim randomly in the pond.
 
-–
+<br>
 
-↓↓ Play it here ↓↓
+## **How to play? 🕹️**
+The player can control the fishing hook using mouse clicks.
+If the hook overlaps with the fish, the player scores points, and the caught fish is removed from the pond.
+If the hook misses the fish, no points are scored.
+The game continues for a certain duration.
+The player's score is displayed on the screen during the game.
+After the game ends, the player can restart the game to play again.
+- 
+- 
 
-https://shirleytwl.github.io/gone-fishing/
+<br>
+
+## **Screenshots 📸**
+
+<br><img src="./images/01.png" alt="Image Description">
+<br>
+<img src="./images/02.png" alt="Image Description">
+
+
+
+
+
+<br>
